@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Currently building an AI chatbot for my dissertation, with a focus on data collection and model training.<br>Cloud Computing at SERC.<br>Learning DevOps, Data Engineering, and Machine Learning.<br>Experienced with Software Development Lifecycles.
+Currently building an AI chatbot for my dissertation, with a focus on data collection and model training.<br>Building upon Cloud Computing skills.<br>Learning DevOps, Data Engineering, and Machine Learning.<br>Experienced with Software Development Lifecycles.
 
 
 ## 🌐 Socials:
